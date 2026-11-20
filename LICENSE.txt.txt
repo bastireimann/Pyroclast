@@ -1,0 +1,7 @@
+Copyright (c) 2026 LOWTONE AUDIO. All rights reserved.
+
+This software is proprietary. Use is governed by the
+LOWTONE AUDIO End User License Agreement:
+https://LOWTONEAUDIO.com/lizenz/  (English: https://LOWTONEAUDIO.de/en/license/)
+
+Redistribution, modification and resale are not permitted.
